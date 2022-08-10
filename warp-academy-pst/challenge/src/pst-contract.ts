@@ -11,7 +11,7 @@ import {
   } from 'warp-contracts';
 
 export const arweave: Arweave = Arweave.init({
-    host: 'testnet.redstone.tools',
+    host: 'arweave.net',
     port: 443,
     protocol: 'https',
   });

@@ -1,4 +1,4 @@
 // ~~ Inidicate contract id ~~
 export const deployedContracts = {
-  fc: 'A-EnFstLmqMgD2S6oEWWclOKvA_Z7c6oKsEc4iqbkOg',
+  fc: 'gFpjlXh5fv2zOp3AtteyGPFeiAYXT0_ki0vgYa4zymE',
 };
